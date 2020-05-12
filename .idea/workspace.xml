@@ -20,31 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c28e4f-b048-4abf-bd41-bf66b71d7e3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/DP1___A_Algorithm_Java_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Batch_2_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Data_JPA_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Integration_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Security_5_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Web_Services_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Webflow_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/HaversineScorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/RouteFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/RouteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/Scorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP1---A-Algorithm-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DP1---A-Algorithm-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/manRedex/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +127,7 @@
       <workItem from="1589240973543" duration="1340000" />
       <workItem from="1589242954017" duration="1943000" />
       <workItem from="1589245264741" duration="3654000" />
+      <workItem from="1589254988129" duration="307000" />
     </task>
     <servers />
   </component>
@@ -165,6 +144,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589242496203">
@@ -183,26 +163,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589243515198" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1589249033542">
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom" timestamp="1589255294731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589249033542" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1589249033542">
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
+    <state width="1877" height="882" key="GridCell.Tab.0.center" timestamp="1589255294731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589249033542" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1589249033542">
+    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
+    <state width="1877" height="882" key="GridCell.Tab.0.left" timestamp="1589255294731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589249033542" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1589249033542">
+    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
+    <state width="1877" height="882" key="GridCell.Tab.0.right" timestamp="1589255294731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589249033542" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1589243557818">
+    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1589255208908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589243557818" />
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589255208908" />
     <state x="706" y="519" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589248744875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
