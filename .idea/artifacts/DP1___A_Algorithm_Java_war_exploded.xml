@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DP1---A-Algorithm-Java:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DP1___A_Algorithm_Java_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DP1---A-Algorithm-Java/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DP1---A-Algorithm-Java" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
