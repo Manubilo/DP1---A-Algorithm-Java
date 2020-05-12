@@ -20,9 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c28e4f-b048-4abf-bd41-bf66b71d7e3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/nombres_aereopuerto.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/vuelos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/lectura/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils/hoursProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP1---A-Algorithm-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DP1---A-Algorithm-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/META-INF/DP1---A-Algorithm-Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/GraphNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/GraphNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/HaversineScorer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/HaversineScorer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/RouteFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/RouteFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/RouteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/RouteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Scorer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Scorer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Station.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP1---A-Algorithm-Java/com/manRedex/algoritmo/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/manRedex/algoritmo/RouteFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/manRedex/algoritmo/RouteFinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +49,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -42,54 +57,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bmcWYCopn6o26CBndmLJ2kfnjp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.Test2.findRoute">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.manRedex.Main" />
-      <module name="DP1---A-Algorithm-Java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.findRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DP1---A-Algorithm-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.manRedex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.manRedex" />
-      <option name="MAIN_CLASS_NAME" value="com.manRedex.Main" />
-      <option name="METHOD_NAME" value="findRoute" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2.findRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RouteFinder">
+    <configuration name="Test2" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="DP1---A-Algorithm-Java" />
       <extension name="coverage">
         <pattern>
@@ -99,17 +96,46 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.manRedex.algoritmo" />
       <option name="MAIN_CLASS_NAME" value="com.manRedex.algoritmo.Test2" />
-      <option name="METHOD_NAME" value="findRoute" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="adopt-openjdk-14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.manRedex.Main" />
+      <module name="DP1---A-Algorithm-Java" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manRedex.algoritmo.RouteFinder" />
+      <module name="DP1---A-Algorithm-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manRedex.algoritmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Android JUnit.Test2" />
+      <item itemvalue="Application.RouteFinder" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test2.findRoute" />
-        <item itemvalue="JUnit.Main.findRoute" />
+        <item itemvalue="Application.RouteFinder" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Android JUnit.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -124,10 +150,9 @@
       <option name="presentableId" value="Default" />
       <updated>1589240741156</updated>
       <workItem from="1589240745869" duration="41000" />
-      <workItem from="1589240973543" duration="1340000" />
-      <workItem from="1589242954017" duration="1943000" />
-      <workItem from="1589245264741" duration="3654000" />
-      <workItem from="1589254988129" duration="307000" />
+      <workItem from="1589241199631" duration="262000" />
+      <workItem from="1589252472521" duration="62000" />
+      <workItem from="1589313862019" duration="4849000" />
     </task>
     <servers />
   </component>
@@ -144,52 +169,66 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589242496203">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589316400013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589242496203" />
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1589248213231">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589316400013" />
+    <state x="664" y="277" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1589314693828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589248213231" />
-    <state x="632" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589248704584">
+    <state x="664" y="277" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589314693828" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1589252531561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="632" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589248704584" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1589243515198">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589252531561" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589243515198" />
-    <state width="1877" height="882" key="GridCell.Tab.0.bottom" timestamp="1589255294731">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
-    <state width="1877" height="882" key="GridCell.Tab.0.center" timestamp="1589255294731">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
-    <state width="1877" height="882" key="GridCell.Tab.0.left" timestamp="1589255294731">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
-    <state width="1877" height="882" key="GridCell.Tab.0.right" timestamp="1589255294731">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1589318450375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589255294731" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1589255208908">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450375" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589255208908" />
-    <state x="706" y="519" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589248744875">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="706" y="519" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1589248744875" />
-    <state x="342" y="141" key="new project wizard" timestamp="1589243585909">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1589318450374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589243585909" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589318450374" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1589318274612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589318274612" />
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589316564222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1589316564222" />
+    <state x="342" y="140" key="new project wizard" timestamp="1589252532857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589252532857" />
   </component>
 </project>

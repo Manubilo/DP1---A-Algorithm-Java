@@ -1,5 +1,10 @@
 package com.manRedex.algoritmo;
 
+import data.lectura.Nodo;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -13,10 +18,77 @@ public class RouteFinder<T extends GraphNode> {
     private final Scorer<T> nextNodeScorer;
     private final Scorer<T> targetScorer;
 
+
+    private static ArrayList<String> readAirports() throws IOException {
+        ArrayList<String> airports = new ArrayList<String>();
+        String csvAirports = "D:/DP1---A-Algorithm-Java/src/com/manRedex/algoritmo/nombres_aereopuerto.csv";
+        BufferedReader csvReader = new BufferedReader(new FileReader(csvAirports));
+        String row;
+        while((row = csvReader.readLine()) != null){
+            String[] data = row.split(",");
+            airports.add(data[0]);
+        }
+        csvReader.close();
+        return airports;
+    }
+
+    public static int searchIndex(String airportCode, ArrayList<String> airports){
+        for (int i = 0; i < airports.size(); i++) {
+            if(airportCode.equals(airports.get(i))) return i;
+        }
+        return -1;
+    }
+
+    public static ArrayList<ArrayList<Nodo>> readNodes(ArrayList<String> airports) throws IOException {
+        ArrayList<ArrayList<Nodo>> matrizCosto = new ArrayList<ArrayList<Nodo>>();
+        for(int i = 0; i < airports.size(); i++){
+            ArrayList<Nodo> auxList = new ArrayList<Nodo>();
+            for(int j = 0; j < airports.size(); j++){
+                auxList.add(new Nodo());
+            }
+            matrizCosto.add(auxList);
+        }
+
+        String csvAirports = "D:/DP1---A-Algorithm-Java/src/com/manRedex/algoritmo/vuelos.csv";
+        BufferedReader csvReader = new BufferedReader(new FileReader(csvAirports));
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] data = row.split(";");
+            int indexA = searchIndex(data[0], airports);
+            int indexB = searchIndex(data[1], airports);
+            matrizCosto.get(indexA).get(indexB).addNewFlight(Integer.parseInt(data[4]),data[2],data[3]);
+        }
+        csvReader.close();
+
+        return matrizCosto;
+    }
+
+
+
     public RouteFinder(Graph<T> graph, Scorer<T> nextNodeScorer, Scorer<T> targetScorer) {
         this.graph = graph;
         this.nextNodeScorer = nextNodeScorer;
         this.targetScorer = targetScorer;
+    }
+
+    public static void main(String[] args) throws IOException {
+        ArrayList<String> airports = readAirports();
+        ArrayList<ArrayList<Nodo>> matrizCosto = readNodes(airports);
+
+        int ran1 = (int) (Math.random() * airports.size());
+        int ran2 = (int) (Math.random() * airports.size());
+
+        System.out.println(ran1);
+        System.out.println(ran2);
+
+        City A = new City(airports.get(ran1), ran1);
+        City B = new City(airports.get(ran2), ran2);
+
+        String cad2 = "From " + airports.get(ran1) + " to " + airports.get(ran2);
+        System.out.println(cad2);
+
+        /*Hasta aqui todo ok*/
+
     }
 
     public List<T> findRoute(T from, T to) {
